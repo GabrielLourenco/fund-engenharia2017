@@ -1,5 +1,0 @@
-#Título
-
-Tema (descrição)
-
-Referências
