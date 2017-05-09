@@ -1,0 +1,15 @@
+Nome: Gabriel Lourenço de Morais
+
+1.1) Instancia do problema são os casos a serem resolvidos pelo problema. Uma lista muito grande, com mais de 200KB não será
+     executada pela limitação do hardware informada.
+
+1.2) O algoritmo conta com alguns procedimentos de custo 1 (4 procedimentos) e dois primeiros loops são For, que rodam dependente do tamanho
+entrada g, então até o momento temos o custo de n². Mas na frente, um loop While é executado.
+
+1.3)
+
+2) O processo de software consiste na forma de selecionar e escolher quais são as ações a serem tomadas. Com relação as atividades metodo-
+lógicas, elas devem ser aplicadas a todos os softwares para melhor aproveitamento no desenvolvimento. Contudo, não podemos afirmar o mesmo
+sobre as tarefas de cada software, pois cada software tem seus requisitos próprios, uns mais complexos outros mais simples. Por isso, é
+necessário seguir as cinco atividades da metodologia de processo genérica para engenharia de software, a Comunicação, o Planejamento, a
+Modelagem, a Construção e o Emprego, e só assim traçar as atividades fundamentais do software em si.
