@@ -3,8 +3,11 @@ Nome: Gabriel Lourenço de Morais
 1.1) Instancia do problema são os casos a serem resolvidos pelo problema. Uma lista muito grande, com mais de 200KB não será
      executada pela limitação do hardware informada.
 
-1.2) O algoritmo conta com alguns procedimentos de custo 1 (4 procedimentos) e dois primeiros loops são For, que rodam dependente do tamanho
-entrada g, então até o momento temos o custo de n². Mas na frente, um loop While é executado.
+1.2) O algoritmo conta com alguns procedimentos de custo 1 (4 procedimentos) e dois primeiros loops são For, que rodam dependente do
+     tamanho entrada g, então até o momento temos o custo de n². Mas na frente, um loop While é executado. Nesse loop, há um For dentro que
+     executa alguns procedimentos caso obeceça a determinada regra do If, então ele não rodará com base na entrada, será um custo de n-1
+     vezes. No final ainda há mais um loop for com mais um condicional If que faz o programa não rodar todas as n vezes. Portanto, o custo
+     computacional do algoritmo é n² + 2(n-1).
 
 1.3)
 
