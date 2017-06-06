@@ -1,1 +1,1 @@
-Bem vindo a entrega do Sprint 1 do CRUD do PlantHere. Neste diretório você terá acesso aos registros do Scrum (Backlogs e Burndown) e acesso ao CRUD via este link: https://github.com/GabrielLourenco/crud-PHP-HTML-MySQLi
+Bem vindo a entrega do Sprint 1 do CRUD do PlantHere. Neste diretório você terá acesso aos registros do Scrum (Backlogs e Burndown) e acesso ao código-fonte do CRUD via este link: https://github.com/GabrielLourenco/crud-PHP-HTML-MySQLi
